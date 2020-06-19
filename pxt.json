@@ -1,5 +1,6 @@
 {
     "name": "loochs-8th-workshop-01",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
